@@ -1,2 +1,2 @@
-# Maximizing-XOR
+# Bits-Manipulation
 bit manpulation problems
